@@ -1,10 +1,10 @@
 # hello world
-Product Design Services
+<html> Product Design Services
 
 <b>Product Design Services<b>
 
-<html>
 
+<!-- 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Business Card</title>
@@ -13,9 +13,9 @@ Product Design Services
 <meta name="Microsoft Border" content="tb, default">
 </head>
 
-<body background="images/graphpaper-g.gif"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<body background="images/graphpaper-g.gif"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
 
-<p align="center"><strong><font size="4"><img border="0" src="images/wpe80385b.gif" width="144" height="42">&nbsp;<font color="#006666">&nbsp;&nbsp;
+<p align="center"><strong><font size="4"><img border="0" src="images/wpe80385b.gif" width="144" height="42">&nbsp;<font color="#006666">&nbsp;&nbsp;-->
 </font><font color="#003366">
 Canyon View Design, Inc.</font></font></strong><font face="Trebuchet MS"><br>
 <nobr>[&nbsp;<a href="index.htm">Home</a>&nbsp;]</nobr> 
@@ -24,7 +24,7 @@ Canyon View Design, Inc.</font></font></strong><font face="Trebuchet MS"><br>
 <nobr>[&nbsp;<a href="site_search/search.htm">Site&nbsp;Search</a>&nbsp;]</nobr> 
 <nobr>[&nbsp;<a href="toc.htm">Site&nbsp;Map</a>&nbsp;]</nobr></font></p>
 
-</td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+</td></tr><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <div align="left">
@@ -59,10 +59,10 @@ Canyon View Design, Inc.</font></font></strong><font face="Trebuchet MS"><br>
 <a href="map_office.htm"><img border="0" src="images/map_to_home_office_20pc_20010209.jpg" width="96" height="55">
  View a map</a>
 </font></b></p>
-&nbsp;<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+&nbsp;</td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
 
 
 
-</td></tr><!--msnavigation--></table></body>
+</td></tr></table></body>
 
 </html>
